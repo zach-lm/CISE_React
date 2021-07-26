@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Agile is About Values and Principles
         </a>
       </header>
     </div>
